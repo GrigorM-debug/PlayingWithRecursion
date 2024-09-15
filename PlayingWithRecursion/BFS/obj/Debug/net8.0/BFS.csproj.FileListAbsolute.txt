@@ -1,0 +1,15 @@
+C:\Github\PlayingWithRecursion\BFS\bin\Debug\net8.0\BFS.exe
+C:\Github\PlayingWithRecursion\BFS\bin\Debug\net8.0\BFS.deps.json
+C:\Github\PlayingWithRecursion\BFS\bin\Debug\net8.0\BFS.runtimeconfig.json
+C:\Github\PlayingWithRecursion\BFS\bin\Debug\net8.0\BFS.dll
+C:\Github\PlayingWithRecursion\BFS\bin\Debug\net8.0\BFS.pdb
+C:\Github\PlayingWithRecursion\BFS\obj\Debug\net8.0\BFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\PlayingWithRecursion\BFS\obj\Debug\net8.0\BFS.AssemblyInfoInputs.cache
+C:\Github\PlayingWithRecursion\BFS\obj\Debug\net8.0\BFS.AssemblyInfo.cs
+C:\Github\PlayingWithRecursion\BFS\obj\Debug\net8.0\BFS.csproj.CoreCompileInputs.cache
+C:\Github\PlayingWithRecursion\BFS\obj\Debug\net8.0\BFS.sourcelink.json
+C:\Github\PlayingWithRecursion\BFS\obj\Debug\net8.0\BFS.dll
+C:\Github\PlayingWithRecursion\BFS\obj\Debug\net8.0\refint\BFS.dll
+C:\Github\PlayingWithRecursion\BFS\obj\Debug\net8.0\BFS.pdb
+C:\Github\PlayingWithRecursion\BFS\obj\Debug\net8.0\BFS.genruntimeconfig.cache
+C:\Github\PlayingWithRecursion\BFS\obj\Debug\net8.0\ref\BFS.dll
