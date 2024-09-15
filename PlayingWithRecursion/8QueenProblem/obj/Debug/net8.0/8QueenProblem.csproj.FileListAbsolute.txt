@@ -1,0 +1,15 @@
+C:\Github\PlayingWithRecursion\8QueenProblem\bin\Debug\net8.0\8QueenProblem.exe
+C:\Github\PlayingWithRecursion\8QueenProblem\bin\Debug\net8.0\8QueenProblem.deps.json
+C:\Github\PlayingWithRecursion\8QueenProblem\bin\Debug\net8.0\8QueenProblem.runtimeconfig.json
+C:\Github\PlayingWithRecursion\8QueenProblem\bin\Debug\net8.0\8QueenProblem.dll
+C:\Github\PlayingWithRecursion\8QueenProblem\bin\Debug\net8.0\8QueenProblem.pdb
+C:\Github\PlayingWithRecursion\8QueenProblem\obj\Debug\net8.0\8QueenProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\PlayingWithRecursion\8QueenProblem\obj\Debug\net8.0\8QueenProblem.AssemblyInfoInputs.cache
+C:\Github\PlayingWithRecursion\8QueenProblem\obj\Debug\net8.0\8QueenProblem.AssemblyInfo.cs
+C:\Github\PlayingWithRecursion\8QueenProblem\obj\Debug\net8.0\8QueenProblem.csproj.CoreCompileInputs.cache
+C:\Github\PlayingWithRecursion\8QueenProblem\obj\Debug\net8.0\8QueenProblem.sourcelink.json
+C:\Github\PlayingWithRecursion\8QueenProblem\obj\Debug\net8.0\8QueenProblem.dll
+C:\Github\PlayingWithRecursion\8QueenProblem\obj\Debug\net8.0\refint\8QueenProblem.dll
+C:\Github\PlayingWithRecursion\8QueenProblem\obj\Debug\net8.0\8QueenProblem.pdb
+C:\Github\PlayingWithRecursion\8QueenProblem\obj\Debug\net8.0\8QueenProblem.genruntimeconfig.cache
+C:\Github\PlayingWithRecursion\8QueenProblem\obj\Debug\net8.0\ref\8QueenProblem.dll
