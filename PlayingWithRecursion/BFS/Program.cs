@@ -18,11 +18,6 @@
             //    "10E"
             //};
 
-            //string path = "";
-
-            //bool[,] visitedCells = new bool[maze.Length, maze[0].Length];
-
-
             FindPaths(maze, 0, 0);
         }
 
@@ -30,6 +25,7 @@
         {
 
             bool[,] visitedCells = new bool[maze.Length, maze[0].Length];
+
             Queue<(int row, int col, string path)> queue = new Queue<(int, int, string)>();
 
             queue.Enqueue((0, 0, ""));
@@ -82,7 +78,12 @@
                 return false;
             }
 
-            if (visited[row, col] || maze[row][col] == '1')
+            if (maze[row][col] == '1')
+            {
+                return false;
+            }
+
+            if (visited[row, col])
             {
                 return false;
             }
