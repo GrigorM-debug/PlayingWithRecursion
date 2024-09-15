@@ -1,0 +1,15 @@
+C:\Github\PlayingWithRecursion\DFSWithStack\bin\Debug\net8.0\DFSWithStack.exe
+C:\Github\PlayingWithRecursion\DFSWithStack\bin\Debug\net8.0\DFSWithStack.deps.json
+C:\Github\PlayingWithRecursion\DFSWithStack\bin\Debug\net8.0\DFSWithStack.runtimeconfig.json
+C:\Github\PlayingWithRecursion\DFSWithStack\bin\Debug\net8.0\DFSWithStack.dll
+C:\Github\PlayingWithRecursion\DFSWithStack\bin\Debug\net8.0\DFSWithStack.pdb
+C:\Github\PlayingWithRecursion\DFSWithStack\obj\Debug\net8.0\DFSWithStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\PlayingWithRecursion\DFSWithStack\obj\Debug\net8.0\DFSWithStack.AssemblyInfoInputs.cache
+C:\Github\PlayingWithRecursion\DFSWithStack\obj\Debug\net8.0\DFSWithStack.AssemblyInfo.cs
+C:\Github\PlayingWithRecursion\DFSWithStack\obj\Debug\net8.0\DFSWithStack.csproj.CoreCompileInputs.cache
+C:\Github\PlayingWithRecursion\DFSWithStack\obj\Debug\net8.0\DFSWithStack.sourcelink.json
+C:\Github\PlayingWithRecursion\DFSWithStack\obj\Debug\net8.0\DFSWithStack.dll
+C:\Github\PlayingWithRecursion\DFSWithStack\obj\Debug\net8.0\refint\DFSWithStack.dll
+C:\Github\PlayingWithRecursion\DFSWithStack\obj\Debug\net8.0\DFSWithStack.pdb
+C:\Github\PlayingWithRecursion\DFSWithStack\obj\Debug\net8.0\DFSWithStack.genruntimeconfig.cache
+C:\Github\PlayingWithRecursion\DFSWithStack\obj\Debug\net8.0\ref\DFSWithStack.dll
