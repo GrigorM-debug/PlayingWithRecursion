@@ -1,0 +1,15 @@
+C:\Github\PlayingWithRecursion\PathInMaze\bin\Debug\net8.0\PathInMaze.exe
+C:\Github\PlayingWithRecursion\PathInMaze\bin\Debug\net8.0\PathInMaze.deps.json
+C:\Github\PlayingWithRecursion\PathInMaze\bin\Debug\net8.0\PathInMaze.runtimeconfig.json
+C:\Github\PlayingWithRecursion\PathInMaze\bin\Debug\net8.0\PathInMaze.dll
+C:\Github\PlayingWithRecursion\PathInMaze\bin\Debug\net8.0\PathInMaze.pdb
+C:\Github\PlayingWithRecursion\PathInMaze\obj\Debug\net8.0\PathInMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\PlayingWithRecursion\PathInMaze\obj\Debug\net8.0\PathInMaze.AssemblyInfoInputs.cache
+C:\Github\PlayingWithRecursion\PathInMaze\obj\Debug\net8.0\PathInMaze.AssemblyInfo.cs
+C:\Github\PlayingWithRecursion\PathInMaze\obj\Debug\net8.0\PathInMaze.csproj.CoreCompileInputs.cache
+C:\Github\PlayingWithRecursion\PathInMaze\obj\Debug\net8.0\PathInMaze.sourcelink.json
+C:\Github\PlayingWithRecursion\PathInMaze\obj\Debug\net8.0\PathInMaze.dll
+C:\Github\PlayingWithRecursion\PathInMaze\obj\Debug\net8.0\refint\PathInMaze.dll
+C:\Github\PlayingWithRecursion\PathInMaze\obj\Debug\net8.0\PathInMaze.pdb
+C:\Github\PlayingWithRecursion\PathInMaze\obj\Debug\net8.0\PathInMaze.genruntimeconfig.cache
+C:\Github\PlayingWithRecursion\PathInMaze\obj\Debug\net8.0\ref\PathInMaze.dll
