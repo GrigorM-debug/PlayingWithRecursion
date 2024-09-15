@@ -1,0 +1,15 @@
+C:\Github\PlayingWithRecursion\ForLoopWithRecursion\bin\Debug\net8.0\ForLoopWithRecursion.exe
+C:\Github\PlayingWithRecursion\ForLoopWithRecursion\bin\Debug\net8.0\ForLoopWithRecursion.deps.json
+C:\Github\PlayingWithRecursion\ForLoopWithRecursion\bin\Debug\net8.0\ForLoopWithRecursion.runtimeconfig.json
+C:\Github\PlayingWithRecursion\ForLoopWithRecursion\bin\Debug\net8.0\ForLoopWithRecursion.dll
+C:\Github\PlayingWithRecursion\ForLoopWithRecursion\bin\Debug\net8.0\ForLoopWithRecursion.pdb
+C:\Github\PlayingWithRecursion\ForLoopWithRecursion\obj\Debug\net8.0\ForLoopWithRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\PlayingWithRecursion\ForLoopWithRecursion\obj\Debug\net8.0\ForLoopWithRecursion.AssemblyInfoInputs.cache
+C:\Github\PlayingWithRecursion\ForLoopWithRecursion\obj\Debug\net8.0\ForLoopWithRecursion.AssemblyInfo.cs
+C:\Github\PlayingWithRecursion\ForLoopWithRecursion\obj\Debug\net8.0\ForLoopWithRecursion.csproj.CoreCompileInputs.cache
+C:\Github\PlayingWithRecursion\ForLoopWithRecursion\obj\Debug\net8.0\ForLoopWithRecursion.sourcelink.json
+C:\Github\PlayingWithRecursion\ForLoopWithRecursion\obj\Debug\net8.0\ForLoopWithRecursion.dll
+C:\Github\PlayingWithRecursion\ForLoopWithRecursion\obj\Debug\net8.0\refint\ForLoopWithRecursion.dll
+C:\Github\PlayingWithRecursion\ForLoopWithRecursion\obj\Debug\net8.0\ForLoopWithRecursion.pdb
+C:\Github\PlayingWithRecursion\ForLoopWithRecursion\obj\Debug\net8.0\ForLoopWithRecursion.genruntimeconfig.cache
+C:\Github\PlayingWithRecursion\ForLoopWithRecursion\obj\Debug\net8.0\ref\ForLoopWithRecursion.dll

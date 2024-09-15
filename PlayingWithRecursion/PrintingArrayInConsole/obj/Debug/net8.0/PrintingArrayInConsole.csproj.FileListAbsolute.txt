@@ -1,0 +1,15 @@
+C:\Github\PlayingWithRecursion\PrintingArrayInConsole\bin\Debug\net8.0\PrintingArrayInConsole.exe
+C:\Github\PlayingWithRecursion\PrintingArrayInConsole\bin\Debug\net8.0\PrintingArrayInConsole.deps.json
+C:\Github\PlayingWithRecursion\PrintingArrayInConsole\bin\Debug\net8.0\PrintingArrayInConsole.runtimeconfig.json
+C:\Github\PlayingWithRecursion\PrintingArrayInConsole\bin\Debug\net8.0\PrintingArrayInConsole.dll
+C:\Github\PlayingWithRecursion\PrintingArrayInConsole\bin\Debug\net8.0\PrintingArrayInConsole.pdb
+C:\Github\PlayingWithRecursion\PrintingArrayInConsole\obj\Debug\net8.0\PrintingArrayInConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\PlayingWithRecursion\PrintingArrayInConsole\obj\Debug\net8.0\PrintingArrayInConsole.AssemblyInfoInputs.cache
+C:\Github\PlayingWithRecursion\PrintingArrayInConsole\obj\Debug\net8.0\PrintingArrayInConsole.AssemblyInfo.cs
+C:\Github\PlayingWithRecursion\PrintingArrayInConsole\obj\Debug\net8.0\PrintingArrayInConsole.csproj.CoreCompileInputs.cache
+C:\Github\PlayingWithRecursion\PrintingArrayInConsole\obj\Debug\net8.0\PrintingArrayInConsole.sourcelink.json
+C:\Github\PlayingWithRecursion\PrintingArrayInConsole\obj\Debug\net8.0\PrintingArrayInConsole.dll
+C:\Github\PlayingWithRecursion\PrintingArrayInConsole\obj\Debug\net8.0\refint\PrintingArrayInConsole.dll
+C:\Github\PlayingWithRecursion\PrintingArrayInConsole\obj\Debug\net8.0\PrintingArrayInConsole.pdb
+C:\Github\PlayingWithRecursion\PrintingArrayInConsole\obj\Debug\net8.0\PrintingArrayInConsole.genruntimeconfig.cache
+C:\Github\PlayingWithRecursion\PrintingArrayInConsole\obj\Debug\net8.0\ref\PrintingArrayInConsole.dll

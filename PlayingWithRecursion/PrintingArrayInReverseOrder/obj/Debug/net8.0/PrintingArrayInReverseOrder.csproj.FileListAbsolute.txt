@@ -1,0 +1,15 @@
+C:\Github\PlayingWithRecursion\PrintingArrayInReverseOrder\bin\Debug\net8.0\PrintingArrayInReverseOrder.exe
+C:\Github\PlayingWithRecursion\PrintingArrayInReverseOrder\bin\Debug\net8.0\PrintingArrayInReverseOrder.deps.json
+C:\Github\PlayingWithRecursion\PrintingArrayInReverseOrder\bin\Debug\net8.0\PrintingArrayInReverseOrder.runtimeconfig.json
+C:\Github\PlayingWithRecursion\PrintingArrayInReverseOrder\bin\Debug\net8.0\PrintingArrayInReverseOrder.dll
+C:\Github\PlayingWithRecursion\PrintingArrayInReverseOrder\bin\Debug\net8.0\PrintingArrayInReverseOrder.pdb
+C:\Github\PlayingWithRecursion\PrintingArrayInReverseOrder\obj\Debug\net8.0\PrintingArrayInReverseOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\PlayingWithRecursion\PrintingArrayInReverseOrder\obj\Debug\net8.0\PrintingArrayInReverseOrder.AssemblyInfoInputs.cache
+C:\Github\PlayingWithRecursion\PrintingArrayInReverseOrder\obj\Debug\net8.0\PrintingArrayInReverseOrder.AssemblyInfo.cs
+C:\Github\PlayingWithRecursion\PrintingArrayInReverseOrder\obj\Debug\net8.0\PrintingArrayInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Github\PlayingWithRecursion\PrintingArrayInReverseOrder\obj\Debug\net8.0\PrintingArrayInReverseOrder.sourcelink.json
+C:\Github\PlayingWithRecursion\PrintingArrayInReverseOrder\obj\Debug\net8.0\PrintingArrayInReverseOrder.dll
+C:\Github\PlayingWithRecursion\PrintingArrayInReverseOrder\obj\Debug\net8.0\refint\PrintingArrayInReverseOrder.dll
+C:\Github\PlayingWithRecursion\PrintingArrayInReverseOrder\obj\Debug\net8.0\PrintingArrayInReverseOrder.pdb
+C:\Github\PlayingWithRecursion\PrintingArrayInReverseOrder\obj\Debug\net8.0\PrintingArrayInReverseOrder.genruntimeconfig.cache
+C:\Github\PlayingWithRecursion\PrintingArrayInReverseOrder\obj\Debug\net8.0\ref\PrintingArrayInReverseOrder.dll
